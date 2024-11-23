@@ -1,0 +1,28 @@
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.AssemblyInfoInputs.cache
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.AssemblyInfo.cs
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.csproj.CoreCompileInputs.cache
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.exe
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.deps.json
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.runtimeconfig.json
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.dll
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.pdb
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.dll
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\refint\CalculadoraLucasPanzera.dll
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.pdb
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.genruntimeconfig.cache
+H:\POO\CalculadoraLucasPanzera\CalculadoraLucasPanzera\obj\Debug\net8.0\ref\CalculadoraLucasPanzera.dll
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.exe
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.deps.json
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.runtimeconfig.json
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.dll
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\bin\Debug\net8.0\CalculadoraLucasPanzera.pdb
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.AssemblyInfoInputs.cache
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.AssemblyInfo.cs
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.dll
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\refint\CalculadoraLucasPanzera.dll
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.pdb
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\CalculadoraLucasPanzera.genruntimeconfig.cache
+C:\Users\Lucas Panzera\Desktop\CalculadoraLucasPanzera\obj\Debug\net8.0\ref\CalculadoraLucasPanzera.dll
